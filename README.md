@@ -1,2 +1,2 @@
-# practicas_curso
-Practicas de cursos
+# ws-usuario
+Servicio que obtiene la información del usuario
